@@ -1,0 +1,5 @@
+# Graph with a cycle: A -> B -> C -> A
+A: B
+B: C
+C: A D
+D:
